@@ -227,9 +227,6 @@ Isso permite visualizar detalhes de execução da aplicação e do consumo da AP
 
 Este projeto é fornecido como exemplo educacional para praticar integração com APIs e persistência de dados com Spring Boot e PostgreSQL.
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se livre para abrir issues ou pull requests.
 
 ---
 
